@@ -1,0 +1,15 @@
+{
+  "name": "oilastudio/oneaccount-php",
+  "description": "Oneaccount SDK",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*"
+  },
+  "authors": [
+    {
+      "name": "Oneaccount",
+      "email": "contact@oneaccount.app"
+    }
+  ]
+}
